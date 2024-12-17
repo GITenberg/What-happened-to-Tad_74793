@@ -1,0 +1,38 @@
+_repo: What-happened-to-Tad_74793
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ropes, Mary E. (Mary Emily)
+    aliases:
+    - Ropes, M. E. (Mary Emily)
+    - Ropes, Mary Emily
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '57192'
+    url: http://www.gutenberg.org/2009/agents/57192
+description: ''
+gutenberg_issued: '2024-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74793'
+language: en
+pgterms:marc905: 20241024091449ropes
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'France -- Juvenile fiction'
+- !lcsh 'Romanies -- Juvenile fiction'
+- !lcsh 'Stepmothers -- Juvenile fiction'
+- !lcsh 'Child abuse -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: What happened to Tad
+url: http://www.gutenberg.org/ebooks/74793
